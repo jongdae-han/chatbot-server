@@ -1,0 +1,19 @@
+# Node.js 관련 폴더 및 파일 무시
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# 환경 설정 파일 무시
+.env
+.DS_Store
+
+# 보안 관련 파일 무시
+service-account.json
+
+# IDE 및 편집기 설정 파일 무시
+.idea/
+.vscode/
+
+# OS 관련 파일 무시 (Mac & Windows)
+Thumbs.db
+Desktop.ini
